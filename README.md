@@ -37,13 +37,13 @@ I'm a 3rd-year ECE student (CGPA: 9.72) with a strong focus on **embedded system
 
 | Project | Status | Highlights |
 |---|---|---|
-| [🌦️ SkyPulse Weather Network](#) | 🟢 Active | Rs. 7.25L IEEE EPICS funded, LoRaWAN nodes, SDR |
-| [🌿 EQCMS – Environmental Monitor](#) | 🟢 Deployed | Campus-deployed since Aug 2025, Innovator Award |
-| [🐛 Sericulture Automation System](#) | 🟡 Patent Pending | CNC-driven feeding, Raspberry Pi vision, ESP32 IoT |
-| [🔬 Ultrasonic Spray Pyrolysis Machine](#) | ✅ Complete | Low-cost thin-film deposition system |
-| [🐟 Smart Aquarium System](#) | ✅ Published | IEEE SETCOM 2025 paper |
-| [📻 Campus Radio System](#) | ✅ Published | IEEE COMSIGPRO 2024 paper |
-| [💣 Acoustic Landmine Detector](#) | 🟡 In Progress | TDOA localisation, LoRa telemetry, Streamlit dashboard |
+| [🌦️ SkyPulse Weather Network](https://github.com/SrujanHari190805/SkyPulse-Centre-for-RF-Remote-Sensing-and-Data-Analytics) | 🟢 Active | Rs. 7.25L IEEE EPICS funded, LoRaWAN nodes, SDR |
+| [🌿 EQCMS – Environmental Monitor](https://github.com/SrujanHari190805/EQCMS-Environmental-Quality-and-Climate-Monitoring-System) | 🟢 Deployed | Campus-deployed since Aug 2025, Innovator Award |
+| [🐛 Sericulture Automation System](https://github.com/SrujanHari190805/Smart-Automated-Feeding-and-Environmental-Monitoring-System-for-Sericulture) | 🟡 Patent Pending | CNC-driven feeding, Raspberry Pi vision, ESP32 IoT |
+| [🔬 Ultrasonic Spray Pyrolysis Machine](https://github.com/SrujanHari190805/XY-Controlled-Low-Cost-Ultrasonic-Spray-Pyrolysis-System-for-Thin-Film-Deposition) | ✅ Complete | Low-cost thin-film deposition system |
+| [🐟 Smart Aquarium System](https://github.com/SrujanHari190805/Real-Time-Smart-Aquarium-Monitoring-System-Driven-by-IoT) | ✅ Published | IEEE SETCOM 2025 paper |
+| [📻 Campus Radio System](https://github.com/SrujanHari190805/Online-Campus-Radio-System-Using-Icecast-and-Raspberry-Pi-Based-Local-Client) | ✅ Published | IEEE COMSIGPRO 2024 paper |
+| [💣 Acoustic Landmine Detector](https://github.com/SrujanHari190805/Acoustic-Landmine-and-Buried-Object-Detection-System) | 🟡 In Progress | TDOA localisation, LoRa telemetry, Streamlit dashboard |
 
 ---
 
