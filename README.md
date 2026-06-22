@@ -12,7 +12,7 @@
 
 I'm a 3rd-year ECE student (CGPA: 9.72) with a strong focus on **embedded systems design, IoT sensor networks, and full-stack hardware development**. I build things that actually get deployed — from solar-powered environmental monitoring nodes running 24/7 on campus, to IEEE-funded distributed weather sensing networks.
 
-- 🔬 Hardware Lead — **SkyPulse Centre for RF, Remote Sensing & Data Analytics** (Rs. 7.25 lakh IEEE EPICS funded)
+- 🔬 Hardware — **SkyPulse Centre for RF, Remote Sensing & Data Analytics** (Rs. 7.25 lakh IEEE EPICS funded)
 - 🏆 3x Hackathon/Innovation Competition Winner (2025)
 - 📄 3 published/presented papers at IEEE conferences
 - 🛠️ Hands-on with Raspberry Pi, ESP32, Arduino, STM32, FPGA, LoRa, SDR, and more
