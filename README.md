@@ -41,7 +41,7 @@ I'm a 3rd-year ECE student (CGPA: 9.72) with a strong focus on **embedded system
 | [🌿 EQCMS – Environmental Monitor](#) | 🟢 Deployed | Campus-deployed since Aug 2025, Innovator Award |
 | [🐛 Sericulture Automation System](#) | 🟡 Patent Pending | CNC-driven feeding, Raspberry Pi vision, ESP32 IoT |
 | [🔬 Ultrasonic Spray Pyrolysis Machine](#) | ✅ Complete | Low-cost thin-film deposition system |
-| [🐟 Real-Time-Smart-Aquarium-Monitoring-System-Driven-by-IoT](#) | ✅ Published | IEEE SETCOM 2025 paper |
+| [🐟 Smart Aquarium System](#) | ✅ Published | IEEE SETCOM 2025 paper |
 | [📻 Campus Radio System](#) | ✅ Published | IEEE COMSIGPRO 2024 paper |
 | [💣 Acoustic Landmine Detector](#) | 🟡 In Progress | TDOA localisation, LoRa telemetry, Streamlit dashboard |
 
